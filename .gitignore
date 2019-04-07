@@ -1,0 +1,17 @@
+*.mp3
+*.wav
+*.au
+.idea/
+*.pyc
+*.webm
+music/
+music_mytesting/
+cache.txt
+gradientboosting*
+svm*
+randomforest*
+knn*
+*.zip
+*.csv
+
+api.json
