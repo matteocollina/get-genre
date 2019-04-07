@@ -15,3 +15,4 @@ knn*
 *.csv
 
 api.json
+pyAudioAnalysis/
