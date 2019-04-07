@@ -1,3 +1,8 @@
+**Classificatore di generi musicali**  
+Matteo Collina  
+Università degli Studi di Milano    
+[PAPER](https://github.com/matteocollina/get-genre/blob/master/_IRDocs/IR_MatteoCollina.pdf)
+
 Prerequisites :
 - [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)
 - [musixmatch](https://github.com/hudsonbrendon/python-musixmatch)
